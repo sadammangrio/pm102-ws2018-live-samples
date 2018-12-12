@@ -1,0 +1,1 @@
+export const DB_URL = 'mongodb://localhost/pm102-lecture-9'
